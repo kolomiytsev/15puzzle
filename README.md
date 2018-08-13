@@ -3,10 +3,10 @@
 ### Description
 Classical [15 puzzle](https://en.wikipedia.org/wiki/15_puzzle) game, implemented using node.js
 
-### How to use it?
-
 #### Requirements
 Node.js version 8 or higher
+
+### How to use it?
 
 In project folder
 
