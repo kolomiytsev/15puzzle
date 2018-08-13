@@ -1,0 +1,24 @@
+{
+  "name": "15_puzzle",
+  "version": "1.0.0",
+  "description": "Cli 15 puzzle game implementation",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "should": "^13.2.3",
+    "should-sinon": "0.0.6",
+    "sinon": "^6.1.5"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Leonid Kolomiitsev",
+  "license": "MIT"
+}
