@@ -1,9 +1,13 @@
 # 15 puzzle - cli game
 
 ### Description
-Classical [15 puzzle](https://en.wikipedia.org/wiki/15_puzzle) game implemented using node.js
+Classical [15 puzzle](https://en.wikipedia.org/wiki/15_puzzle) game, implemented using node.js
 
 ### How to use it?
+
+#### Requirements
+Node.js version 8 or higher
+
 In project folder
 
 ```bash
